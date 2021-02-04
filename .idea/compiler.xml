@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-server" />
+        <module name="sadr" />
+        <module name="config-server" />
+        <module name="deneb" />
+        <module name="cygnus-model" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-server" target="1.5" />
+      <module name="config-server" target="1.5" />
+      <module name="cygnus-arq" target="1.5" />
+      <module name="cygnus-model" target="1.5" />
+      <module name="deneb" target="1.5" />
+      <module name="eureka-server" target="1.5" />
+      <module name="exampleMicroservice" target="1.5" />
+      <module name="sadr" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

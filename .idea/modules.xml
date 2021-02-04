@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cygnus-arq/cygnus-arq.iml" filepath="$PROJECT_DIR$/cygnus-arq/cygnus-arq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cygnus-model/cygnus-model.iml" filepath="$PROJECT_DIR$/cygnus-model/cygnus-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deneb/deneb.iml" filepath="$PROJECT_DIR$/deneb/deneb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exampleMicroservice.iml" filepath="$PROJECT_DIR$/.idea/exampleMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sadr/sadr.iml" filepath="$PROJECT_DIR$/sadr/sadr.iml" />
+    </modules>
+  </component>
+</project>
